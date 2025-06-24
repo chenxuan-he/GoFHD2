@@ -1,6 +1,6 @@
 # Code for "A Goodness-of-Fit Assessment for General Learning Procedures in High Dimensions"
 
-This repository contains the code for the submitted article *A Goodness-of-Fit Assessment for General Learning Procedures in High Dimensions*. 
+This repository contains the code for the paper *A Goodness-of-Fit Assessment for General Learning Procedures in High Dimensions*. 
 Below, you will find detailed explanations of the scripts and their outputs.
 Intermediate result files are not included to save space.
 
